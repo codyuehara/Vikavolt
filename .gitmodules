@@ -1,0 +1,3 @@
+[submodule "quadrotor_dynamics_simulation"]
+	path = quadrotor_dynamics_simulation
+	url = https://github.com/codyuehara/quadrotor_dynamics_simulation
